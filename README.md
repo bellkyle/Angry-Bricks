@@ -1,2 +1,2 @@
 # Angry-Bricks
-This program utilizes the OpenCV API in order to find the green object in a picture. I am currently working on making so that the program will then display a new image on top of the green object.
+This program uses OpenGL API to create a brick and allow the user to launch the brick like in the game Angry Birds.
